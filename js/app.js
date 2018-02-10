@@ -1,4 +1,4 @@
-var url= 'http://celianbastien.fr/api/Okazuma.json'
+var url= 'http://celianbastien.fr/api/Okazuma/data.json'
 var req= new XMLHttpRequest()
 var res= null
 req.open('GET',url,true)
