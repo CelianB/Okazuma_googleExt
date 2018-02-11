@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "short_name" : "Oka Alert",
   "name": "Oka Alert - Alert Live",
-  "homepage_url": "celianbastien.fr",
+  "homepage_url": "http://celianbastien.fr",
   "description": "Tenez vous informé de l'heure des streams de Okazuma (aka BestOfSardoche)",
   "author": "hyrozen",
   "version": "1.0.0",
