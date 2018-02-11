@@ -23,7 +23,7 @@
         {
              var opt = {
                  type: "basic",
-                 title: "Oka Alert",
+                 title: "Okazma est en live !",
                  message: message,
                  iconUrl: '../img/logo.png',
                  isClickable: true
