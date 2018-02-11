@@ -1,0 +1,16 @@
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Release\Oka Alert.exe.config
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Release\Oka Alert.exe
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Release\Oka Alert.pdb
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Release\Newtonsoft.Json.dll
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Release\Newtonsoft.Json.xml
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\MainWindow.g.cs
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\App.g.cs
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert_MarkupCompile.cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert_MarkupCompile.lref
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\MainWindow.baml
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert.g.resources
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka_Alert.Properties.Resources.resources
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert.csproj.GenerateResource.Cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert.csproj.CoreCompileInputs.cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert.exe
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Release\Oka Alert.pdb

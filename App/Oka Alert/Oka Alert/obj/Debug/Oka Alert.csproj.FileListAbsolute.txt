@@ -1,0 +1,21 @@
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Oka Alert.exe.config
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Oka Alert.exe
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Oka Alert.pdb
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\MainWindow.g.cs
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\App.g.cs
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert_MarkupCompile.cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert_MarkupCompile.lref
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\MainWindow.baml
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.g.resources
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka_Alert.Properties.Resources.resources
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.csproj.GenerateResource.Cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.csproj.CoreCompileInputs.cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.exe
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.pdb
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Oka Alert.exe.manifest
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\bin\Debug\Oka Alert.application
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.csprojResolveAssemblyReference.cache
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.exe.manifest
+C:\Users\PC-FIXE\Documents\Projets\Okazuma - BOS\App\Oka Alert\Oka Alert\obj\Debug\Oka Alert.application
